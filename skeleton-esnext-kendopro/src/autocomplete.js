@@ -1,4 +1,4 @@
-import 'kendo-ui/js/kendo.autocomplete.min';
+import 'kendo-ui/js/kendo.all.min';
 
 export class autocomplete {
   constructor() {
